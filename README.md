@@ -1,15 +1,13 @@
 # DuckyPicoW
 Wifi Password Grabber with Raspberry Pico W (No Internet Needed)
 
-This project is only for education purpose
+This project is only for educational purposes. This kind of attack was shown in Mr. Robot's show.
 
-This attack was shown in the Mr Robot show.
+Also, there were many attacks tentative using social engineering techniques like sending Bad USBs to US goverment employees impersonating companies like Netflix.
 
-![image](https://github.com/gamo8/DuckyPicoW/assets/149111503/f5be2013-c826-429c-94d0-ca59dd2cb70a)
-![image](https://github.com/gamo8/DuckyPicoW/assets/149111503/79e35bf2-b188-4543-89f8-eae2b1141a19)
-![image](https://github.com/gamo8/DuckyPicoW/assets/149111503/0d277b7b-9dbd-43d5-adda-057bc93c4f32)
+A nice video showing the attack can be found here:
 
-Also, there were many atacks tentative
+https://www.youtube.com/watch?v=1ZW-tZLm0jE
 
 
 
